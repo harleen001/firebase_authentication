@@ -1,5 +1,7 @@
 Replace 
-const firebaseConfig = {
+
+const firebaseConfig = 
+{
 	  apiKey: "##",
 	  authDomain: "##",
 	  databaseURL: "##",
